@@ -1,0 +1,22 @@
+{
+  "name": "08-socket.io",
+  "version": "1.0.0",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB =================================================",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1anderson2jacob/08-socket.io.git"
+  },
+  "author": "Jacob Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1anderson2jacob/08-socket.io/issues"
+  },
+  "homepage": "https://github.com/1anderson2jacob/08-socket.io#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
